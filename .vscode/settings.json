@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e71e2eda-d85a-4d02-86b5-4e32a1db8d1d/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/hoey",
+    "appService.deploySubpath": ""
+}
